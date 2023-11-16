@@ -1,4 +1,4 @@
-- 👋 Hi, I’m wissam,second year bachelor computer science.
+- 👋 Hi, I’m wissem,second year bachelor computer science.
 - 👀 I’m interested in web devlopement,cyber security.
 - 🌱 I’m currently learning C.
   
