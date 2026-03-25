@@ -2,7 +2,7 @@
 <h3 align="center">A passionate CS student from Algeria.</h3>
 
 # 💫 About Me:
-🌱 I’m currently learning Java , python, cybersecurity and robotics.<br>👯 I’m looking to collaborate on a robotic machine.<br>🎀 Fun fact : I like doing a LOT of things what gives me a headache.<br>📫 How to reach me wissamnouiri03@gmail.com<br>
+🌱 I’m currently learning Machine Learning.<br>👯 I’m looking to collaborate on ML projects.<br>🎀 Fun fact : I like doing a LOT of things what gives me a headache.<br>📫 How to reach me wissamnouiri03@gmail.com<br>
 
 
 ## 🌐 Socials:
