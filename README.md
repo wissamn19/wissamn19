@@ -1,42 +1,94 @@
-<h1 align="center">Hi 👋, I'm wissem</h1>
-<h3 align="center">A passionate CS student from Algeria.</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wissamn19&label=Profile%20views&color=0e75b6&style=flat" alt="wissamn19" /> </p>
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Wissem%20Nouiri&fontSize=50&fontColor=E8D5FF&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20ML%20Enthusiast%20%7C%20Algeria&descAlignY=55&descColor=C9A0FF" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wissamn19" alt="wissamn19" /></a> </p>
-
-- 🌱 I’m currently learning **Machine Learning.**
-
-- 👯 I’m looking to collaborate on **ML projects.**
-
-- 📫 How to reach me **wissamnouiri03@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/22887420/wis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/22887420/wis" height="30" width="40" /></a>
+<!-- Profile Views -->
+<p>
+  <img src="https://komarev.com/ghpvc/?username=wissamn19&label=Profile%20Views&color=7B2FBE&style=for-the-badge" alt="profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wissamn19&show_icons=true&locale=en&layout=compact" alt="wissamn19" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wissamn19&show_icons=true&locale=en" alt="wissamn19" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wissamn19&" alt="wissamn19" /></p>
-
-
-###
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A855F7&center=true&vCenter=true&width=500&lines=Passionate+CS+Student+%F0%9F%8E%93;Machine+Learning+Explorer+%F0%9F%A4%96;Open+Source+Collaborator+%F0%9F%92%9C;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 
 ---
-[![](https://visitcount.itsvg.in/api?id=wissamn19&icon=3&color=11)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🔮 About Me
 
+```python
+class Wissem:
+    def __init__(self):
+        self.name        = "Wissem Nouiri"
+        self.location    = "Algeria 🇩🇿"
+        self.learning    = ["Machine Learning", "Deep Learning"]
+        self.collaborate = "ML Projects"
+        self.contact     = "wissamnouiri03@gmail.com"
+        self.passion     = "Turning data into decisions ✨"
 
+    def say_hi(self):
+        print("Thanks for visiting! Let's build something amazing together 💜")
 
+me = Wissem()
+me.say_hi()
+```
 
+---
 
+### 🏆 Trophies
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=wissamn19&theme=dracula&no-frame=true&no-bg=true&margin-w=4&row=1&column=6" alt="wissamn19 trophies" />
+</a>
+
+---
+
+### 🛠️ Languages & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,c,php,html,css&theme=dark" /><br><br>
+  <img src="https://skillicons.dev/icons?i=linux,git,docker,mysql,figma,ps,ai,androidstudio&theme=dark" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=wissamn19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&icon_color=7B2FBE&text_color=E8D5FF&border_radius=12" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wissamn19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E8D5FF&border_radius=12" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=wissamn19&theme=midnight-purple&hide_border=true&background=0D0015&ring=7B2FBE&fire=A855F7&currStreakLabel=C9A0FF&border_radius=12" />
+</p>
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/22887420/wis">
+    <img src="https://img.shields.io/badge/Stack_Overflow-7B2FBE?style=for-the-badge&logo=stack-overflow&logoColor=white" />
+  </a>
+  <a href="mailto:wissamnouiri03@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-A855F7?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### ✍️ Random Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=wissamn19&icon=3&color=7)](https://visitcount.itsvg.in)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=120&section=footer&fontColor=E8D5FF" />
+
+<!-- Proudly crafted with 💜 -->
+
+</div>
