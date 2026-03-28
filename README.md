@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Wissem%20Nouiri&fontSize=50&fontColor=E8D5FF&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20ML%20Enthusiast%20%7C%20Algeria&descAlignY=55&descColor=C9A0FF" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=Samis%20here&fontSize=50&fontColor=E8D5FF&animation=twinkling&fontAlignY=35&desc=CS%20Student%20%7C%20ML%20Enthusiast%20%7C%20Algeria&descAlignY=55&descColor=C9A0FF" />
 
 <!-- Profile Views -->
 <p>
@@ -16,10 +16,10 @@
 ### 🔮 About Me
 
 ```python
-class Wissem:
+class Sam:
     def __init__(self):
-        self.name        = "Wissem Nouiri"
-        self.location    = "Algeria 🇩🇿"
+        self.name        = "samishere"
+        self.location    = "Algeria"
         self.learning    = ["Machine Learning", "Deep Learning"]
         self.collaborate = "ML Projects"
         self.contact     = "wissamnouiri03@gmail.com"
@@ -28,7 +28,7 @@ class Wissem:
     def say_hi(self):
         print("Thanks for visiting! Let's build something amazing together 💜")
 
-me = Wissem()
+me = Sam()
 me.say_hi()
 ```
 
