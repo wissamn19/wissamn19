@@ -88,6 +88,8 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wissamn19&theme=midnight-purple&hide_border=true&background=0D0015&ring=7B2FBE&fire=A855F7&currStreakLabel=C9A0FF&border_radius=12)](https://github.com/wissamn19)
 
+[![LeetCode Stats](https://leetcard.jacoblin.cool/SamIsHere19?theme=dark&font=Karma&ext=contest)](https://leetcode.com/SamIsHere19)
+
 </div>
 
 ---
