@@ -81,10 +81,10 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 ## 📊 GitHub Stats
 
 <div align="center">
+    
+[![GitHub Stats](https://github-readme-stats-8l5a5eggy-wissamn19s-projects.vercel.app/api?username=wissamn19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&icon_color=7B2FBE&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissamn19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&icon_color=7B2FBE&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wissamn19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
+[![Top Languages](https://github-readme-stats-8l5a5eggy-wissamn19s-projects.vercel.app/api/top-langs/?username=wissamn19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=wissamn19&theme=midnight-purple&hide_border=true&background=0D0015&ring=7B2FBE&fire=A855F7&currStreakLabel=C9A0FF&border_radius=12)](https://github.com/wissamn19)
 
