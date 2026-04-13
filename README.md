@@ -18,7 +18,7 @@ class Sam:
         self.mission     = "Becoming an ML Engineer at a top tech company"
         self.currently   = "Learning Machine Learning from the ground up"
         self.building    = "In public — every step documented"
-        self.location    = "Algeria 🇩🇿"
+        self.location    = "Algeria"
         self.writing     = "Medium  →  coming soon"
         self.visuals     = "Instagram  →  coming soon"
 
