@@ -110,6 +110,7 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 <div align="center">
 
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/22887420/wis)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/SamIsHere19)
 
 </div>
 
