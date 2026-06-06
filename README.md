@@ -10,7 +10,7 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 ```python
 class Sam:
@@ -31,22 +31,22 @@ me.say_hi()
 
 ---
 
-## 🗺️ My ML Roadmap
+##  My ML Roadmap
 
 Here's exactly where I am and where I'm going. Updated as I progress.
 
 | Phase | Topics | Status |
 |-------|--------|--------|
-| 📐 **Phase 1 — Math & Foundations** | Linear Algebra, Calculus, Statistics, Probability | 🔄 In Progress |
-| 🐍 **Phase 2 — Python for ML** | NumPy, Pandas, Matplotlib, Scikit-learn | ⏳ Up Next |
-| 🤖 **Phase 3 — Core ML** | Regression, Classification, Clustering, Trees | ⏳ Upcoming |
-| 🔥 **Phase 4 — Deep Learning** | Neural Networks, CNNs, RNNs, PyTorch | ⏳ Upcoming |
-| 🚀 **Phase 5 — Projects & Specialization** | Real datasets, NLP or CV, end-to-end pipelines | ⏳ Upcoming |
-| 🏆 **Phase 6 — Interview Prep** | ML System Design, LeetCode, Theory | ⏳ Upcoming |
+|  **Phase 1 — Math & Foundations** | Linear Algebra, Calculus, Statistics, Probability | 🔄 In Progress |
+|  **Phase 2 — Python for ML** | NumPy, Pandas, Matplotlib, Scikit-learn | ⏳ Up Next |
+|  **Phase 3 — Core ML** | Regression, Classification, Clustering, Trees | ⏳ Upcoming |
+|  **Phase 4 — Deep Learning** | Neural Networks, CNNs, RNNs, PyTorch | ⏳ Upcoming |
+|  **Phase 5 — Projects & Specialization** | Real datasets, NLP or CV, end-to-end pipelines | ⏳ Upcoming |
+|  **Phase 6 — Interview Prep** | ML System Design, LeetCode, Theory | ⏳ Upcoming |
 
 ---
 
-## 🛠️ Current Stack
+##  Current Stack
 
 <div align="center">
 
@@ -78,7 +78,7 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <div align="center">
     
@@ -94,18 +94,18 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 ---
 
-## ✍️ Writing & Content
+##  Writing & Content
 
 > I document everything I learn. One concept at a time.
 
-- 📝 **Medium** — Deep dives into ML concepts as I learn them → *coming soon*
-- 📸 **Instagram** — Visual carousels breaking down ML topics → *coming soon*
+-  **Medium** — Deep dives into ML concepts as I learn them → *coming soon*
+-  **Instagram** — Visual carousels breaking down ML topics → *coming soon*
 
 *Follow along — the journey starts now.*
 
 ---
 
-## 🤝 Connect
+##  Connect
 
 <div align="center">
 
