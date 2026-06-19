@@ -38,7 +38,7 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 | Phase | Topics | Status |
 |-------|--------|--------|
 |  **Phase 1 — Math & Foundations** | Linear Algebra, Calculus, Statistics, Probability | 🔄 In Progress |
-|  **Phase 2 — Python for ML** | NumPy, Pandas, Matplotlib, Scikit-learn | ⏳ Up Next |
+|  **Phase 2 — Python for ML** | NumPy, Pandas, Matplotlib, Scikit-learn | 🔄 In Progress |
 |  **Phase 3 — Core ML** | Regression, Classification, Clustering, Trees | ⏳ Upcoming |
 |  **Phase 4 — Deep Learning** | Neural Networks, CNNs, RNNs, PyTorch | ⏳ Upcoming |
 |  **Phase 5 — Projects & Specialization** | Real datasets, NLP or CV, end-to-end pipelines | ⏳ Upcoming |
