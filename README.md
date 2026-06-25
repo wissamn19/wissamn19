@@ -72,7 +72,7 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 | Project | Description | Status |
 |---------|-------------|--------|
-| Linear Regression from Scratch | Implementing it with pure NumPy, no shortcuts | 📅 Planned |
+| 🔜 Linear Regression from Scratch | Implementing it with pure NumPy, no shortcuts | 📅 Planned |
 | 🔜 My First Real Dataset | End-to-end: clean, explore, model, evaluate | 📅 Planned |
 | 🔜 More coming... | As I learn, I build | 📅 Ongoing |
 
