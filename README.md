@@ -17,9 +17,9 @@ class Sam:
     def __init__(self):
         self.mission     = "Becoming an ML Engineer at a top tech company"
         self.currently   = "Learning Machine Learning from the ground up"
-        self.building    = "In public — every step documented"
+        self.building    = "In public, every step documented"
         self.location    = "Algeria"
-        self.writing     = "Medium  →  coming soon"
+        self.writing     = "Medium"
         self.visuals     = "Instagram  →  coming soon"
 
     def say_hi(self):
@@ -67,7 +67,7 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 ## 📂 Projects
 
-> 🚧 ML projects coming soon — I'm building my foundations first.
+> 🚧 ML projects coming soon, I'm building my foundations first.
 > Every project will be fully documented with a write-up on Medium.
 
 | Project | Description | Status |
