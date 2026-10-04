@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7B2FBE&height=200&section=header&text=samishere&fontSize=50&fontColor=E8D5FF&animation=fadeIn&fontAlignY=35&desc=ML%20Engineer%20in%20Progress%20%7C%20Learning%20in%20Public&descAlignY=55&descColor=C9A0FF" />
 
 <!-- Profile Views -->
-[![Profile Views](https://komarev.com/ghpvc/?username=wissamn19&label=Profile%20Views&color=7B2FBE&style=flat)](https://github.com/wissamn19)
+[![Profile Views](https://hits.sh/github.com/wissamn19.svg?label=Profile%20Views&color=7B2FBE&style=flat)](https://github.com/wissamn19)
 
 </div>
 
@@ -82,7 +82,7 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 <div align="center">
     
-[![GitHub Stats](https://github-readme-stats-8l5a5eggy-wissamn19s-projects.vercel.app/api?username=wissamn19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&icon_color=7B2FBE&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wissamn19&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&icon_color=7B2FBE&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
 
 [![Top Languages](https://github-readme-stats-8l5a5eggy-wissamn19s-projects.vercel.app/api/top-langs/?username=wissamn19&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D0015&title_color=A855F7&text_color=E8D5FF&border_radius=12)](https://github.com/wissamn19)
 
