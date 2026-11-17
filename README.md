@@ -65,18 +65,6 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 ---
 
-## 📂 Projects
-
-> 🚧 ML projects coming soon, I'm building my foundations first.
-> Every project will be fully documented with a write-up on Medium.
-
-| Project | Description | Status |
-|---------|-------------|--------|
-| 🔜 Linear Regression from Scratch | Implementing it with pure NumPy, no shortcuts | 📅 Planned |
-| 🔜 My First Real Dataset | End-to-end: clean, explore, model, evaluate | 📅 Planned |
-| 🔜 More coming... | As I learn, I build | 📅 Ongoing |
-
----
 
 ##  GitHub Stats
 
