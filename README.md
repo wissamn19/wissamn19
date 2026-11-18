@@ -86,8 +86,8 @@ Here's exactly where I am and where I'm going. Updated as I progress.
 
 > I document everything I learn. One concept at a time.
 
--  **Medium** — Deep dives into ML concepts as I learn them 
--  **Instagram** — Visual carousels breaking down ML topics → *coming soon*
+-  **Medium** : Deep dives into ML concepts as I learn them 
+-  **Instagram** : Visual carousels breaking down ML topics → *coming soon*
 
 
 ---
